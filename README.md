@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lerrkaterp
+- 👀 I’m interested in JavaScript (React, Node.JS, etc)
+- 🌱 I’m currently learning React
+- 📫 My Telegram: @lerrkaterp
